@@ -1,37 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about, EvvL]
+date: 2019-11-25
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## About
 
-## Preview
+Jack of all trades and master of none. I work with anything from electronics and wood working to programming and games. I currently have a thing for mechanical keyboards, gaming and 3D printing. My tastes for games run the gamut from stuff like MMORPG and A-RPG to Visual Novels.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Keyboards
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
++ [Alps64](https://geekhack.org/index.php?topic=69740.0) [(ADK64 case,](https://geekhack.org/index.php?topic=99383.0) [Salmon Alps)](https://deskthority.net/wiki/Alps_SKCM_Salmon)
++ [IBM Model M (Black Badge)](https://deskthority.net/wiki/IBM_Enhanced_Keyboard)
++ [Leading Edge DC-3014 (SKCM Blue Alps)](https://deskthority.net/wiki/Leading_Edge_DC-3014)
++ [Pok3r](https://deskthority.net/wiki/Vortex_Pok3r) [(Cherry MX Ergo Clear)](https://deskthority.net/wiki/Cherry_MX_Ergo_Clear)
++ [TOMOKO 87](https://www.amazon.com/gp/product/B01DBJTZU2/) [(Jailhouse Cherry MX Blue)](https://thevankeyboards.com/products/jspacers)
++ [KBParadise V80](https://deskthority.net/wiki/KBParadise_V80) [(Matias Click)](https://deskthority.net/wiki/Matias_switch)
++ [Logitech G410](https://www.amazon.com/Logitech-Spectrum-Tenkeyless-Mechanical-Keyboard/dp/B01645FHEI) [(Romer-G Tactile)](https://deskthority.net/wiki/Logitech_Romer-G)
