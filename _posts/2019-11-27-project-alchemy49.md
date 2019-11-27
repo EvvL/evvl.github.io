@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Alchemy49
+title:  "Alchemy49"
 date:   2019-11-27
 excerpt: "Replacement PCB for the Qisan Magicforce 49"
 project: true
